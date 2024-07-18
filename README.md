@@ -5,7 +5,7 @@ I'm an aspiring software developer with a passion for building innovative soluti
 ## 🌱 Currently Learning
 
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: Bootstrap, Tailwind CSS, React
+- **Frameworks**: Bootstrap, React
 - **Tools**: Git and Visual Studio Code
 
 ## 🌟 Goals
